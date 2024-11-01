@@ -1,0 +1,12 @@
+.GRTNGS_image{
+    max-width:100%;
+    height:auto;
+    display:block;
+}
+#grtngs_message{
+	text-align:center;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 25px 0 15px;
+	text-align: center;
+}
